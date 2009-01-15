@@ -5,7 +5,6 @@ synopsis:        Monads with an unsaveInterleaveIO-like operation.
 description:
     A type class for monads that have an \"unsafeInterleave\" operation.
     Instances are provided for IO and both strict and lazy ST.
-    .
 category:        Monads
 license:         BSD3
 license-file:    LICENSE
